@@ -4,7 +4,7 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCkyTP9DUx1s3prT2_SUR3co7lLRDOPMCI",
+  apiKey: import.meta.env.API_KEY,
   authDomain: "expensetracker-c30f7.firebaseapp.com",
   projectId: "expensetracker-c30f7",
   storageBucket: "expensetracker-c30f7.appspot.com",
