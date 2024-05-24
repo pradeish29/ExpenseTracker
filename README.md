@@ -1,6 +1,7 @@
 # Expense Tracker
 
 Expense Tracker is a web application built with React for the frontend and Firebase for authentication and database storage. It allows users to track their expenses and income conveniently.
+
 live demo - https://pradeish29.github.io/ExpenseTracker
 
 ## Features
